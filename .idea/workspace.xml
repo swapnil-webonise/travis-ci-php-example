@@ -34,7 +34,16 @@
       <file leaf-file-name="HelloWorldTest.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tests/HelloWorldTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="5" selection-start="667" selection-end="667" vertical-scroll-proportion="0.5324074">
+            <state line="20" column="0" selection-start="501" selection-end="501" vertical-scroll-proportion="0.32407406">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloWorld.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HelloWorld.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -223,9 +232,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Tests/HelloWorldTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="5" selection-start="667" selection-end="667" vertical-scroll-proportion="0.5324074">
+        <state line="20" column="0" selection-start="501" selection-end="501" vertical-scroll-proportion="0.32407406">
           <folding />
         </state>
       </provider>
